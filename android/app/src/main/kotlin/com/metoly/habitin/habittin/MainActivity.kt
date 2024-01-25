@@ -1,0 +1,6 @@
+package com.metoly.habitin.habittin
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
